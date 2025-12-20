@@ -1,4 +1,4 @@
-# Ahoj, já jsem [Tvé Jméno] 👋
+# Ahoj, já jsem [Krematos] 👋
 
 Jsem vývojář, kterého baví automatizace a webové aplikace a jejich zabezpečení.
 
@@ -27,10 +27,9 @@ Jsem vývojář, kterého baví automatizace a webové aplikace a jejich zabezpe
 
 ## 🌟 Hlavní projekty
 
-### 1. E-shop[https://github.com/Krematos/E-shop2.0]
+### 1. E-shop(https://github.com/Krematos/E-shop2.0)
 Kompletní e-shopová webová aplikace, postavená na moderních technologií, díky nimž je lehce škálovatelná.  
 > **Stack:** > <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
 <br> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -43,17 +42,17 @@ Kompletní e-shopová webová aplikace, postavená na moderních technologií, d
   <summary>📂 <strong>Zobrazit ostatní menší projekty</strong></summary>
   <br>
   | Název Projektu | Popis | Technologie | Stav |
-  | :--- | :--- | :--- |
-  | **Snake Game** (https://github.com/Krematos/Snake) | Hra had v konzoli - první pokus o hru| Java | Dokončeno |
-  | **[Web](https://github.com/Krematos/Potrub-Mont-e-web)** | Jednoduchý web | HTML, CSS, PHP | Dokončeno |
-  | **[E-shop web](github.com/Krematos/E-shop/)** | První pokus o E-shop, nakonec jsem tento frontend nepoužil v E-shop 2.0 | HTML, CSS | Dokončeno |
-  | **[Bednovač](https://github.com/Krematos/Bednovac)** | Applikace pro kamárady, bere aktuální kurz měny z API a přepočítává to na cenu herních itemů | JavaFX | Dokončeno |
-  | **[Pojištovna](https://github.com/Krematos/Pojistovna)** | První pokus o webovou aplikaci založeno ná Springbootu a zároveň výstup z rekvalifikačního kurzu | Java, SpringBoot, MySQL | Dokončeno |
-  | **[DataImporter](https://github.com/Krematos/UniverzalniDataImporter)** | Tento projekt je jednoduchá Java aplikace sloužící k importu, validaci a konverzi produktových dat z CSV formátu do JSON. | Java | Dokončeno |
+ <br>  | :--- | :--- | :--- |
+ <br>  | **Snake Game** (https://github.com/Krematos/Snake) | Hra had v konzoli - první pokus o hru| Java | Dokončeno |
+<br>  | **[Web](https://github.com/Krematos/Potrub-Mont-e-web)** | Jednoduchý web | HTML, CSS, PHP | Dokončeno |
+<br>   | **[E-shop web](github.com/Krematos/E-shop/)** | První pokus o E-shop, nakonec jsem tento frontend nepoužil v E-shop 2.0 | HTML, CSS | Dokončeno |
+<br>   | **[Bednovač](https://github.com/Krematos/Bednovac)** | Applikace pro kamárady, bere aktuální kurz měny z API a přepočítává to na cenu herních itemů | JavaFX | Dokončeno |
+<br>   | **[Pojištovna](https://github.com/Krematos/Pojistovna)** | První pokus o webovou aplikaci založeno ná Springbootu a zároveň výstup z rekvalifikačního kurzu | Java, SpringBoot, MySQL | Dokončeno |
+<br>   | **[DataImporter](https://github.com/Krematos/UniverzalniDataImporter)** | Tento projekt je jednoduchá Java aplikace sloužící k importu, validaci a konverzi produktových dat z CSV formátu do JSON. | Java | Dokončeno |
   
 </details>
 
 ---
 
 ### 📫 Kontakt
-Najdeš mě na [LinkedIn](odkaz) nebo mi napiš e-mail.
+Najdeš mě na [LinkedIn](https://www.linkedin.com/in/jan-macner/) nebo mi napiš e-mail.
