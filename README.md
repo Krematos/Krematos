@@ -1,6 +1,6 @@
 # Ahoj, já jsem [Krematos] 👋
 
-Jsem vývojář, kterého baví automatizace a webové aplikace a jejich zabezpečení.
+Jsem vývojář, kterého baví automatizace, webové aplikace a jejich zabezpečení.
 
 ---
 
