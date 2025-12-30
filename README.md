@@ -29,6 +29,8 @@ Jsem vývojář, kterého baví automatizace, webové aplikace a jejich zabezpe�
 ### 1. [Eshop](https://github.com/Krematos/E-shop2.0)
 Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je kompletní online obchod, který demonstruje moderní webové vývojové praktiky. Backend je postavený na Spring Bootu s REST API, frontend na Reactu a vše je zabalené do Dockeru pro snadný deployment.
 
+### [Demo](https://eshop-one-navy.vercel.app) - frontend si můžete prohlédnout zde
+
 #### ✨ Klíčové funkce
 * 🔐 **Bezpečnost:** JWT autentizace, Role-based přístup (User/Admin), BCrypt šifrování.
 * ⚡ **Výkon:** Caching přes Caffeine, asynchronní zpracování dat.
