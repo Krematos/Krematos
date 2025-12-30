@@ -47,7 +47,7 @@ Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je
 
 > **Další nástroje:** Lombok, MapStruct, Caffeine Cache
 
-### 2. [Kod pro Dobro](https://github.com/Krematos/KodProDobro)
+### 2. [Kod pro Dobro](https://github.com/Krematos/KodProDobro) (ve vývoji)
 je webová platforma navržená k propojení studentů informatiky a designu s českými neziskovými organizacemi. Cílem je umožnit studentům získat praxi na reálných projektech (Tech for Good) a zároveň pomoci neziskovému sektoru s digitalizací.
 
 ---
