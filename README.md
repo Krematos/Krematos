@@ -30,6 +30,12 @@ Jsem vývojář, kterého baví automatizace, webové aplikace a jejich zabezpe�
 Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je kompletní online obchod, který demonstruje moderní webové vývojové praktiky. Backend je postavený na Spring Bootu s REST API, frontend na Reactu a vše je zabalené do Dockeru pro snadný deployment.
 
 ### [Demo](https://eshop-one-navy.vercel.app) - zde si můžete prohlédnout frontend, pokuď máte vercel účet
+<details>
+<summary><strong>Přihlašovací údaje</strong></summary>
+  <br>
+  demo@eshop.cz <br>
+  demo123
+</details>
 
 #### ✨ Klíčové funkce
 * 🔐 **Bezpečnost:** JWT autentizace, Role-based přístup (User/Admin), BCrypt šifrování.
@@ -72,4 +78,4 @@ je webová platforma navržená k propojení studentů informatiky a designu s �
 ---
 
 ### 📫 Kontakt
-Najdeš mě na [LinkedIn](https://www.linkedin.com/in/jan-macner/) nebo mi napiš e-mail.
+Najdeš mě na [LinkedIn](https://www.linkedin.com/in/jan-macner/) nebo mi napiš e-mail JanMacnerDEV@gmail.com
