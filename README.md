@@ -66,6 +66,8 @@ je reaktivní aplikace postavená na Spring Boot 3.5.8 s využitím stacku WebFl
     * 📬 **Fallback:** Při selhání API odklání požadavky do RabbitMQ fronty pro pozdější zpracování.
     * 🔍 **Audit:** Kompletní logování životního cyklu transakce.
 
+#### 🛠️ Použité technologie
+
 | Core & Security | Data & Messaging | Infra & Monitoring | Testing & Tools |
 | :--- | :--- | :--- | :--- |
 | ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Testcontainers](https://img.shields.io/badge/Testcontainers-9B4F96?style=flat-square&logo=testcontainers&logoColor=white) |
