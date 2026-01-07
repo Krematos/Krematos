@@ -55,7 +55,27 @@ Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je
 
 > **Další nástroje:** Lombok, MapStruct, Caffeine Cache
 
-### 2. [Kod pro Dobro](https://github.com/Krematos/KodProDobro) (ve vývoji)
+
+### 2. [Integrační Middleware](https://github.com/Krematos/ApiConnector)
+je reaktivní aplikace postavená na Spring Boot 3.5.8 s využitím stacku WebFlux. Slouží jako prostředník mezi interními systémy a externími API, zajišťuje robustní komunikaci s automatickým retry mechanismem, fallback logikou přes RabbitMQ a auditním logováním do databáze.
+
+* **Stack:** Java 21, Spring WebFlux, RabbitMQ, PostgreSQL (R2DBC), Docker.
+* **Klíčové vlastnosti:**
+    * ⚡ **Non-blocking I/O:** Zvládá vysokou zátěž s minimem vláken.
+    * 🔄 **Smart Retry:** Exponenciální opakování při výpadku externí služby.
+    * 📬 **Fallback:** Při selhání API odklání požadavky do RabbitMQ fronty pro pozdější zpracování.
+    * 🔍 **Audit:** Kompletní logování životního cyklu transakce.
+
+| Core & Security | Data & Messaging | Infra & Monitoring | Testing & Tools |
+| :--- | :--- | :--- | :--- |
+| ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Testcontainers](https://img.shields.io/badge/Testcontainers-9B4F96?style=flat-square&logo=testcontainers&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![R2DBC](https://img.shields.io/badge/Spring_Data_R2DBC-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) | ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) |
+| ![WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | ![Mockito](https://img.shields.io/badge/Mockito-000000?style=flat-square&logo=mockito&logoColor=white) |
+| ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) | ![ShedLock](https://img.shields.io/badge/ShedLock-555555?style=flat-square&logo=lock&logoColor=white) | ![OpenAPI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black) | ![Lombok](https://img.shields.io/badge/Lombok-BC0230?style=flat-square&logo=lombok&logoColor=white) |
+
+> *"Demonstrace reaktivního programování a návrhových vzorů pro odolné distribuované systémy."*
+
+### 3. [Kod pro Dobro](https://github.com/Krematos/KodProDobro) (ve vývoji)
 je webová platforma navržená k propojení studentů informatiky a designu s českými neziskovými organizacemi. Cílem je umožnit studentům získat praxi na reálných projektech (Tech for Good) a zároveň pomoci neziskovému sektoru s digitalizací.
 
 ---
