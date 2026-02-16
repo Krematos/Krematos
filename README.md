@@ -7,7 +7,7 @@ Jsem vývojář, kterého baví  webové aplikace a jejich zabezpečení.
 ### 💻 Co používám
 
 <details>
-  <summary><strong>🚀 Tech Stack</strong></summary>
+  <summary><strong>Tech Stack</strong></summary>
   <br>
   
   Jsem fanoušek moderních technologií. Aktuálně pracuji s:
@@ -24,7 +24,7 @@ Jsem vývojář, kterého baví  webové aplikace a jejich zabezpečení.
   
 </details>
 
-## 🌟 Hlavní projekty
+## Hlavní projekty
 
 ### 1. [Eshop](https://github.com/Krematos/E-shop2.0)
 Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je kompletní online obchod, který demonstruje moderní webové vývojové praktiky. Backend je postavený na Spring Bootu s REST API, frontend na Reactu a vše je zabalené do Dockeru pro snadný deployment.
@@ -37,14 +37,14 @@ Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je
   demo123
 </details>
 
-#### ✨ Klíčové funkce
+####  Klíčové funkce
 * 🔐 **Bezpečnost:** JWT autentizace, Role-based přístup (User/Admin), BCrypt šifrování.
 * ⚡ **Výkon:** Caching přes Caffeine, asynchronní zpracování dat.
 * 📧 **Notifikace:** Asynchronní odesílání e-mailů (Thymeleaf šablony).
 * 🛒 **Správa:** Kompletní CRUD pro produkty a objednávky, správa uživatelů.
 * 🎨 **Frontend:** Moderní UI v React 19 + TailwindCSS, plně responsivní.
 
-#### 🛠️ Použité technologie
+####  Použité technologie
 
 | Backend | Frontend | Data & Infra | Testování |
 | :--- | :--- | :--- | :--- |
