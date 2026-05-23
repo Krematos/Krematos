@@ -1,10 +1,10 @@
-# Ahoj, já jsem [Krematos] 👋
+# Ahoj, já jsem [Krematos] 
 
 Jsem vývojář, kterého baví  webové aplikace a jejich zabezpečení.
 
 ---
 
-### 💻 Co používám
+###  Co používám
 
 <details>
   <summary><strong>Tech Stack</strong></summary>
@@ -38,11 +38,11 @@ Ahoj! Vítejte v mém full-stack e-commerce projektu E-shop2.0. Tento projekt je
 </details>
 
 ####  Klíčové funkce
-* 🔐 **Bezpečnost:** JWT autentizace, Role-based přístup (User/Admin), BCrypt šifrování.
-* ⚡ **Výkon:** Caching přes Caffeine, asynchronní zpracování dat.
-* 📧 **Notifikace:** Asynchronní odesílání e-mailů (Thymeleaf šablony).
-* 🛒 **Správa:** Kompletní CRUD pro produkty a objednávky, správa uživatelů.
-* 🎨 **Frontend:** Moderní UI v React 19 + TailwindCSS, plně responsivní.
+*  **Bezpečnost:** JWT autentizace, Role-based přístup (User/Admin), BCrypt šifrování.
+*  **Výkon:** Caching přes Caffeine, asynchronní zpracování dat.
+*  **Notifikace:** Asynchronní odesílání e-mailů (Thymeleaf šablony).
+*  **Správa:** Kompletní CRUD pro produkty a objednávky, správa uživatelů.
+*  **Frontend:** Moderní UI v React 19 + TailwindCSS, plně responsivní.
 
 ####  Použité technologie
 
@@ -61,10 +61,10 @@ je reaktivní aplikace postavená na Spring Boot 3.5.8 s využitím stacku WebFl
 
 * **Stack:** Java 21, Spring WebFlux, RabbitMQ, PostgreSQL (R2DBC), Docker.
 * **Klíčové vlastnosti:**
-    * ⚡ **Non-blocking I/O:** Zvládá vysokou zátěž s minimem vláken.
-    * 🔄 **Smart Retry:** Exponenciální opakování při výpadku externí služby.
-    * 📬 **Fallback:** Při selhání API odklání požadavky do RabbitMQ fronty pro pozdější zpracování.
-    * 🔍 **Audit:** Kompletní logování životního cyklu transakce.
+    *  **Non-blocking I/O:** Zvládá vysokou zátěž s minimem vláken.
+    *  **Smart Retry:** Exponenciální opakování při výpadku externí služby.
+    *  **Fallback:** Při selhání API odklání požadavky do RabbitMQ fronty pro pozdější zpracování.
+    *  **Audit:** Kompletní logování životního cyklu transakce.
 
 #### 🛠️ Použité technologie
 
@@ -99,5 +99,5 @@ je webová platforma navržená k propojení studentů informatiky a designu s �
 
 ---
 
-### 📫 Kontakt
+###  Kontakt
 Najdeš mě na [LinkedIn](https://www.linkedin.com/in/jan-macner/) nebo mi napiš e-mail JanMacnerDEV@gmail.com
